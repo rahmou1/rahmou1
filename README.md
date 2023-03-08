@@ -8,8 +8,8 @@ With 5+ years of software development experience, I have contributed to projects
 
 * 🌍  I'm based in Egypt
 * 🖥️  See my portfolio at [Ahmed Rahmou](https://www.rahmou.com/)
-* ✉️  You can contact me at [ahmedrahmou11694@gmail.com](mailto:ahmedrahmou11694@gmail.com)
-* 🧠  I'm learning React Advance Native
+* ✉️  You can contact me at [info@rahmou.com](mailto:info@rahmou.com)
+* 🧠  I'm learning React Native Advance
 
 ### Skills
 
