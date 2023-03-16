@@ -53,7 +53,7 @@ With 5+ years of software development experience, I have contributed to projects
 
 <a href="http://www.github.com/rahmou1"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=rahmou1&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<img src="https://raw.githubusercontent.com/rahmou1/rahmou1/blob/output/snake.svg" alt="Snake animation" />
+
 
 ### Support Me
 
